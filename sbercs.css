@@ -1,0 +1,1166 @@
+.header{
+    position: relative;
+    display: flex;
+}
+.logo {
+    margin-top: 25px;
+    margin-left: 30px;
+    height: 21px;
+    width: 155.77377319335938px;
+    left: 30px;
+    top: 25px;
+    border-radius: 0px;    
+}
+.logo:hover {
+    cursor: pointer;
+}
+.tx{
+    margin-top: 25px;
+    margin-left: 408px;
+    margin-right: 70px;
+    color: #979797;
+    font-family: SB Sans Display;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    height: 22px;
+    width: 47px;
+
+
+}
+.tx:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx1{
+    margin-top: 25px;
+    margin-right: 70px;
+    color: #979797;
+    font-family: SB Sans Display;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    height: 22px;
+    width: 108px;
+}
+.tx1:hover{
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx2{
+    margin-top: 25px;
+    margin-right: 70px;
+    height: 22px;
+    width: 72px;
+    left: 295px;
+    font-family: SB Sans Display;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #979797;
+
+}
+.tx2:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx3{  
+    margin-top: 25px;
+    margin-right: 70px;
+    width: 107px;
+    height: 22px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.tx3:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn{
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 1188px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    letter-spacing: 0.01em;
+    padding: 9px 22px;
+    gap: 10px;
+    width: 142px;
+    height: 40px;
+    background: #006EFF;
+    border-radius: 29px;
+
+    color: #FFFFFF;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+}
+.btn:hover {
+    font-weight: 600;
+    cursor: pointer;
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+    background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+    background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+    background-image: -ms-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+    background-image: linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));   
+}
+.border {
+    border-bottom: 1px solid #979797;
+    position: absolute;
+    width: 1360px;
+    height: 1px;
+    left: 0px;
+    top: 74px;
+    opacity: 0.3;
+}
+.block1{
+    position: relative;
+    display: flex;
+}
+.tx4{
+    margin-top: 49px;
+    margin-left: 68px;
+    margin-right: 30px;
+    width: 89px;
+    height: 22px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.tx4:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx5{
+    margin-top: 49px;
+    margin-right: 30px;
+    width: 95px;
+    height: 22px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx5:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx6 {
+    margin-top: 49px;
+    margin-right: 30px;
+
+    width: 89px;
+    height: 22px;
+
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+    letter-spacing: 0.01em;
+
+    color: #979797;
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+.tx6:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx7 {
+    margin-top: 49px;
+
+    width: 89px;
+    height: 22px;
+
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+    letter-spacing: 0.01em;
+
+    color: #979797;
+
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+.tx7:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx8{
+    position: absolute;
+    margin-top: 52px;
+    margin-left: 68px;
+    position: absolute;
+    width: 364px;
+    height: 64px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 64px;
+    color: #333F48;
+}
+.tx8:hover {
+    cursor: pointer;
+}
+.page1 {
+    position: absolute;
+    left: 1234px;
+    top: 169px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    border: 1px solid #21A038;
+    border-radius: 30px;
+}
+.page1:hover {
+    cursor: pointer;
+}
+.block3{
+    display: flex;
+    justify-content: space-between;
+}
+.tx9{
+    position: absolute;
+    width: 105px;
+    height: 22px;
+    left: 68px;
+    top: 263px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px; 
+    letter-spacing: 0.01em;
+    color: #333F48;
+}
+.tx9:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx10{
+    position: absolute;
+    width: 89px;
+    height: 22px;
+    left: 203px;
+    top: 263px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.tx10:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx11{
+    position: absolute;
+    width: 86px;
+    height: 22px;
+    left: 1070px;
+    top: 263px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: right;
+    letter-spacing: 0.01em;
+    color: #333F48;
+}
+.page2{
+    position: absolute;
+    height: 14px;
+    left: 1168px;
+    top: 273px;
+}
+.page2:hover {
+    cursor: pointer;
+}
+.tx12{
+    position: absolute;
+    width: 66px;
+    height: 22px;
+    left: 1206px;
+    top: 263px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: right;
+    letter-spacing: 0.01em;
+    color: #333F48;
+}
+.page3{
+    position: absolute;
+    height: 14px;
+    left: 1284px;
+    top: 273px;
+}
+.page3:hover {
+    cursor: pointer;
+}
+.page4{
+    position: absolute;
+    height: 383px;
+    left: 68px;
+    top: 345px;
+    border-radius: 20px;
+}
+.tx13{ 
+    position: absolute;
+    top: 347px;
+    left: 692px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+
+
+    color: #979797;
+    display: flex;
+}
+.tx14{
+    position: absolute;
+    top: 347px;
+    left: 785px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx15{
+    position: absolute;
+    top:375px;
+    margin-left:692px;
+    width: 599px;
+    height: 216px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 54px;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx16{
+    position: absolute;
+    margin-top: 531px;
+    margin-left:692px;
+    width: 599px;
+    height: 96px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    color: #979797;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.border2{
+    position: absolute;
+    width: 1225px;
+    height: 1px;
+    left: 68px;
+    top: 797px;
+    background: #979797;
+    opacity: 0.3;
+}
+.page5{
+    position: absolute;
+    height: 262.04px;
+    left: 68px;
+    top: 868px;
+    border-radius:20px;
+}
+.page6{ 
+    position: absolute;
+    height: 261.33px;
+    left: 484px;
+    top: 868px;
+    border-radius: 20px;
+}
+.page7{
+    position: absolute;
+    width: 392px;
+    height: 261.33px;
+    left: 900px;
+    top: 868px;
+    border-radius: 20px;
+}
+.tx17{ 
+    position: absolute;
+    top: 1149px;
+    left: 68px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx18{
+    position: absolute;
+    top: 1149px;
+    left: 161px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx19{
+    position: absolute;
+    top: 1177px;
+    left:68px;
+    margin-bottom: 10px;
+    width: 391px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+}
+.tx19:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx20{
+    position: absolute;
+    top:1271px;
+    left:68px;
+    width: 391px;
+    height: 44px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.tx21{ 
+    position: absolute;
+    top: 1149px;
+    left:484px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx22{
+    position: absolute;
+    top: 1149px;
+    left: 577px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx23{
+    position: absolute;
+    top:1177px;
+    left:484px;
+    width: 391px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx23:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx24{ 
+    position: absolute;
+    top: 1149px;
+    left:900px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx25{
+    position: absolute;
+    top: 1149px;
+    left: 993px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx26{
+    position: absolute;
+    top:1177px;
+    left:900px;
+    width: 391px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx26:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx27{
+    position: absolute;
+    top:1271px;
+    left:900px;
+    width: 391px;
+    height: 66px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.block5{
+    position: absolute;
+    width: 392px;
+    height: 420px;
+    left: 68px;
+    top: 1407.33px;
+    background: #FAF9F9;
+    border-radius: 20px;
+}
+.tx28{ 
+    position: absolute;
+    top: 31px;
+    left:30px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx29{
+    position: absolute;
+    top: 31px;
+    left: 123px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx30{
+    position: absolute;
+    top:59px;
+    left:30px;
+    width: 331px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+}
+.tx30:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx31{
+    position: absolute;
+    top:153px;
+    left:30px;
+    width: 331px;
+    height: 44px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.page8{
+    position: absolute;
+    width: 393px;
+    height: 262px;
+    left: 483px;
+    top: 1408px;
+    border-radius: 20px;
+}
+.page9{
+    position: absolute;
+    width: 393px;
+    height: 264px;
+    left: 900px;
+    top: 1407px;
+    border-radius: 20px;
+}
+.tx32{ 
+    position: absolute;
+    top: 1689px;
+    left:483px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx33{
+    position: absolute;
+    top: 1689px;
+    left: 579px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx34{
+    position: absolute;
+    top:1717px;
+    left:483px;
+    width: 391px;
+    height: 56px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+}
+.tx34:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx35{
+    position: absolute;
+    top: 1783px;
+    left: 483px;
+    width: 391px;
+    height: 44px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.tx36{ 
+    position: absolute;
+    top:1689px;
+    left:900px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx37{
+    position: absolute;
+    top: 1698px;
+    left: 993px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx38{
+    position: absolute;
+    top:1717px;
+    left:900px;
+    width: 391px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx38:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.block6{
+    position: absolute;
+    width: 392px;
+    height: 394px;
+    left: 68px;
+    top: 1897.33px;
+    background: #FAF9F9;
+    border-radius: 20px;
+}
+.tx39{ 
+    position: absolute;
+    top:30px;
+    left:30px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx40{
+    position: absolute;
+    top:30px;
+    left:123px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx41{
+    position: absolute;
+    top:58px;
+    left:30px;
+    width: 391px;
+    height: 84px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #333F48;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tx41:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.tx42{
+    position: absolute;
+    top: 152px;
+    left: 30px;
+    height: 250px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #979797;
+}
+.block7{
+    position: absolute;
+    width: 392px;
+    height: 394px;
+    left: 484px;
+    top: 1897.33px;
+    background: #FAF9F9;
+    border-radius: 20px;
+}
+.tx43{ 
+    position: absolute;
+    top:30px;
+    left:30px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx44{
+    position: absolute;
+    top:30px;
+    left:123px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx45{
+    position: absolute;
+    top:58px;
+    left:30px;
+    width: 331px;
+    height: 128px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333F48;
+}
+.tx45:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.page10{
+    position: absolute;
+    top:1889px;
+    left:900px;
+    width: 392px;
+    height: 278px;
+    left: 900px;
+    top: 1889.67px;
+    border-radius:20px;
+}
+.tx46{ 
+    position: absolute;
+    top:2176px;
+    left:900px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #979797;
+}
+.tx47{
+    position: absolute;
+    top:2176px;
+    left:993px;
+    text-align: start;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #21A038;
+}
+.tx48{
+    position: absolute;
+    top:2207px;
+    left:900px;
+    width: 391px;
+    height: 84px;    
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333F48;
+}
+.tx48:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+.btn1{
+    box-sizing: border-box;
+    top: 2364px;
+    padding: 9px 22px 9px 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    width: 168px;
+    height: 40px;
+    left: 596px;
+    bottom: 402px;
+    border: 1px solid #979797;
+    border-radius: 29px;
+
+    color: #979797;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.01em;
+}
+.btn1:hover{
+    font-weight: 600;
+    cursor:pointer;
+}
+.footer{
+    position: absolute;
+    width: 1360px;
+    height: 332px;
+    top: 2474px;
+    background: #F3F4F5;
+}
+.logo2{
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 30px;
+    top: 30px;
+}
+.group4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    position: absolute;
+    width: 200px;
+    height: 117px;
+    left: 692px;
+    top: 30px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333F48;
+    opacity: 0.5;
+    line-height:30px ;
+}
+.group5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    position: absolute;
+    width: 104px;
+    height: 117px;
+    left: 900px;
+    top: 30px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333F48;
+    opacity: 0.5;
+}
+.soc{
+    position: absolute;
+    width: 117px;
+    height: 18px;
+    left: 692px;
+    top: 246px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5;
+}
+.soc:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx49{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 30px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5;
+}
+.tx49:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx50{
+    position: absolute;
+    width: 250px;
+    height: 18px;
+    left: 221px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5;   
+}
+.tx50:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx51{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 692px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx51:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx52{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 780px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx52:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx53{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 863px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx53:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx54{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 949px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx54:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx55{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 1017px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx55:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
+.tx56{
+    position: absolute;
+    width: 161px;
+    height: 18px;
+    left: 1112px;
+    top: 284px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #333F48;
+    opacity: 0.5; 
+}
+.tx56:hover {
+    font-weight: 600;
+    cursor: pointer;
+}
