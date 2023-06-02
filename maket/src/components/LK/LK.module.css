@@ -1,0 +1,55 @@
+
+.main{
+    min-height: 964px;
+    display: flex;
+    flex-direction: column;
+    width: 84%;
+    margin-left: auto;
+    background-color: azure;
+}
+.table{
+    margin-top: 32px;
+    border-radius: 30px;
+    min-height: 748px;
+    background-color: #EECFF9;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.photoBlock{
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.photo{
+    background-color: #fff;
+    width: 155px;
+    height: 155px;
+    border-radius: 256px;
+    margin: auto;
+}
+
+.userName{
+    font-size: 24px;
+    margin: auto;
+    color: #924A94;   
+}
+
+.infoBlock{
+    background-color: #fff;
+    min-height: 448px;
+    width: 80%;
+    margin:auto;
+    border-radius: 50px;
+    margin-top: 32px;
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.IBText{
+    color: #CC6CCE;
+    font-size: 24px;
+}

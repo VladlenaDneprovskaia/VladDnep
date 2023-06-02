@@ -1,0 +1,76 @@
+.main{
+    height: 964px;
+    display: flex;
+    flex-direction: column;
+    width: 84%;
+    margin-left: auto;
+    background-color: azure;
+}
+.buttonBlock{
+    margin-top: 84px;
+    display: flex;
+    width: 40%;
+    margin-left: 64px;
+}
+.bbButton{
+    font-size: 18px;
+    width: 34%;
+    background-color: #924A94;
+    color: #FFFFFF;
+}
+.bbButton:hover{
+    background-color: #CC6CCE;
+}
+.table{
+    margin-top: 32px;
+    border-radius: 30px;
+    min-height: 748px;
+    background-color: #EECFF9;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 570px;
+    width: 730px;
+    top: 10%;
+    left: 40%;
+    background-color: #FFFFFF;
+    border: 1px solid #924A94;
+    border-radius: 30px;
+}
+
+.postRow{
+    display: flex;
+    background-color: #EECFF9;
+    align-items: center;
+    height: 64px;
+    margin-left: 64px;
+    margin-top: 32px;  
+}
+input{
+    width: 256px;
+    border-radius: 50px;
+    border: 2px solid #924A94;
+    position: absolute;
+    left: 55%;
+}
+.postText{
+    color: #924A94;
+    font-size: 30px;
+}
+.post button{
+    margin-top: 64px;
+}
+.closeBtn{
+    position: absolute;
+    top: -10%;
+    left: 95%;
+    background: url('../Images/close.svg');
+    width: 24px;
+    height: 24px;
+    box-shadow: none;
+}
